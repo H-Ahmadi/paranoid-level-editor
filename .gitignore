@@ -1,0 +1,17 @@
+# Build output (DESIGNER.EXE is published as a release download)
+*.exe
+*.EXE
+*.obj
+*.OBJ
+*.err
+
+# Never commit any of the game's own files
+*.PAR
+*.par
+*.COM
+*.com
+*.DOC
+*.ORG
+*.BAK
+*.$*
+PARANOID*
